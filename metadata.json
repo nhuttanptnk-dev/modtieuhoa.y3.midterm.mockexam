@@ -1,0 +1,6 @@
+{
+  "name": "Đề Thi GK Tiêu Hóa - Y3 ĐHYD TP.HCM",
+  "description": "Nền tảng thi trắc nghiệm trực tuyến Đề thi giữa kỳ Module Tiêu hóa (70 câu - 40 phút), chấm điểm tự động và xem lại chi tiết các câu sai kèm giải thích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
